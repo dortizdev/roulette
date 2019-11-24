@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+.board {
+  height: 200px;
+  width: 70%;
+  border: 1px solid red;
+  margin: auto
+}
+.block {
+  height: 50%;
+  width: 20%;
+  border: 1px solid white;
+  float: left;
+  text-align: center;
+  padding-top: 3.5%;
+  font-family: arial;
+  font-size: 35px;
+  font-weight: bold;
+}
+.black {
+  background: black;
+  color: white;
+}
+.red {
+  background: red;
+  color: white;
+}
+.wrapper {
+  padding-left: 20%;
+}
+.number {
+  width: 50%;
+  float: left;
+}
+.color {
+  width: 50%;
+  float: left;
+}
