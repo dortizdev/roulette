@@ -1,17 +1,16 @@
-# Roulette
-Leave a message for 21 Savage, the one with the most thumbs up will be the favorite.
+# Auto Body Shop
+Set up an appointment to see a mechanic
 
-<img width="1440" alt="Screen Shot 2019-11-17 at 12 59 10 PM" src="https://user-images.githubusercontent.com/55306344/69011578-1dbe8600-093a-11ea-9f61-5c3667a4f53e.png">
+<img width="1427" alt="Screen Shot 2019-11-24 at 7 15 21 PM" src="https://user-images.githubusercontent.com/55306344/69504241-f5f99000-0eee-11ea-9229-c9bf02471595.png">
 
 
 
 ## How It's Made:
 **Tech used:** HTML, CSS, JavaScript, NodeJS, Express, EJS, MongoDB
-HTML and CSS are simple, but care had to be placed in ensuring the routes were properly annotated for the data to be sent to the database.
+Simple HTML and CSS. Created to allow client to sign up for an appointment and allow the manager to see upcoming appointments.
 
 ## Lessons Learned
-Sometimes all it takes is for a simple small typo to ruin everything. The path/routes names are very sensitive and need to be properly put in. Failure to do so would send an error to the client device. It could also prevent any posting of data to the database.
-
+Learned how to input the ability to select a date from a calender by setting the type for input to date. Other options like number and email give the input's added functionality.
 
 
 ## Installation
